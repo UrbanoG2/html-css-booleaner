@@ -9,3 +9,16 @@
     margin-top: 60px;
     margin-left: 5px;
 }
+
+#titolo{
+    font-size: 50px;
+}
+
+#greypara{
+    color: grey;
+    font-size: 20px;
+}
+
+#booleaner{
+    color: blue;
+}
