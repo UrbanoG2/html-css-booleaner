@@ -29,18 +29,49 @@
 }
 
 #img{
-    width: 750px;
+    width: 800px;
     height: 470px;
 }
 
 #img1 {
-    width: 600px;
+    width: 650px;
+    height: 470px;
+}
+
+.description{
+    font-size: 12px;
 }
 
 .text{
     background-color: yellow;
 }
 
-ul{
+.list{
     margin-top: 40px;
+    
+}
+
+.tablecontainer{
+    width: 100%;
+    margin-top: 50px;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+th{
+text-align: left}
+
+#third{
+    width: 50%;
+}
+
+.bluerow{
+    background-color: lightblue;
+}
+
+.paracontainer{
+    margin-top: 30px;
 }
