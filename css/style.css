@@ -22,3 +22,17 @@
 #booleaner{
     color: blue;
 }
+
+.imgcontainer{
+    width: 100%;
+    margin-top: 20px;
+}
+
+#img{
+    width: 750px;
+    height: 470px;
+}
+
+#img1 {
+    width: 600px;
+}
