@@ -1,0 +1,11 @@
+.logocontainer{
+    height: 120px;
+    background-image: url(../img/pattern.png);
+    background-color: lightblue;
+}
+
+#logo{
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 5px;
+}
