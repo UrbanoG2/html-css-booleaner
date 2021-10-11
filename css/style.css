@@ -14,7 +14,7 @@
     font-size: 50px;
 }
 
-#greypara{
+.grey{
     color: grey;
     font-size: 20px;
 }
@@ -74,4 +74,35 @@ text-align: left}
 
 .paracontainer{
     margin-top: 30px;
+}
+
+.advice{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 220px;
+}
+
+.advice2{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 220px;
+}
+
+#adtext{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    line-height: 50px;
+    margin-left: 70px;
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+}
+
+#adtext:hover{
+    font-size: larger;
 }
